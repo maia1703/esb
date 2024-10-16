@@ -1,0 +1,5 @@
+Ephoto is a comprehensive image/photo viewer written in C
+and using the Enlightened Foundation Libraries. The
+application supports file system browsing for photos and
+images, enhancement and editing features, and moving
+slideshows.

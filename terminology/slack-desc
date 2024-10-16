@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+           |-----handy-ruler------------------------------------------------------|
+terminology: terminology (Terminal emulator)
+terminology:
+terminology: Terminology is a terminal emulator for Linux/BSD/UNIX etc.
+terminology: systems that uses EFL and has a whole bunch of bells and whistles.
+terminology:
+terminology: https://www.enlightenment.org
+terminology:
+terminology:
+terminology:
+terminology:
+terminology:
