@@ -1,6 +1,6 @@
 Finally! A cutting edge Enlightenment for Slackware!
 
-Download main esb.tar.gz and run my build script to build everything : build-enlightenment.SlackBuild
+Download main esb.zip and run my build script to build everything : build-enlightenment.SlackBuild
 
 or go the  willysr and GArik way.
 
